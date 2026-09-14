@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e8ab7950cc69e64e90336625a392581, type: 3}
+  m_Name: RightHandCoverageTrainingNoAI
+  m_EditorClassIdentifier: 
+  _keybindEntries:
+  - Binding: 0
+    Label:
+      m_TableReference:
+        m_TableCollectionName: GUID:5887fe10d86044042b3b673714325efc
+      m_TableEntryReference:
+        m_KeyId: 10888515584
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Icon: {fileID: 0}
+  - Binding: 3
+    Label:
+      m_TableReference:
+        m_TableCollectionName: GUID:5887fe10d86044042b3b673714325efc
+      m_TableEntryReference:
+        m_KeyId: 206858981376
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Icon: {fileID: 0}
+  - Binding: 8
+    Label:
+      m_TableReference:
+        m_TableCollectionName: GUID:5887fe10d86044042b3b673714325efc
+      m_TableEntryReference:
+        m_KeyId: 172629266432
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Icon: {fileID: 0}
+  - Binding: 9
+    Label:
+      m_TableReference:
+        m_TableCollectionName: GUID:5887fe10d86044042b3b673714325efc
+      m_TableEntryReference:
+        m_KeyId: 433109237600256
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    Icon: {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

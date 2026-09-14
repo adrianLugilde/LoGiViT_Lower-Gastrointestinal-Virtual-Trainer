@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be84dbdc55507764f8f4c9a940f48edc, type: 3}
+  m_Name: Polyp 9
+  m_EditorClassIdentifier: Assembly-CSharp::PolypProfile
+  id: 0641d021-55a9-4aae-864b-d9788371dbd5
+  displayName: Polyp 9
+  description: Sessile - Adenoma
+  mesh: {fileID: 5420851299190504530, guid: 01e0744ba85d9f04aa7c0272fc087d83, type: 3}
+  materials:
+  - {fileID: 2100000, guid: e03d79bd8823c014b8a202ae49bd9f7a, type: 2}
+  meshSprite: {fileID: 21300000, guid: 5dba779adb9e2e54dac5cd4bab4be307, type: 3}
+  image: {fileID: 2800000, guid: d7823914d4d331740a167ab4c653c331, type: 3}
+  jnetClass: 1
+  parisClass: 2

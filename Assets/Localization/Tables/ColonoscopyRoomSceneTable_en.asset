@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ColonoscopyRoomSceneTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c7b1241be07e16f40bd910ab8598158e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46652542976
+    m_Localized: Basic models
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136792330240
+    m_Localized: Custom models
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259345698816
+    m_Localized: 'Welcome to LoGIViT!
+
+
+
+      LoGIViT is an editor of the large
+      intestine for the practice of colonoscopy through a virtual simulator. You
+      can create and use different models of the large intestine by varying its size,
+      shape, position and pathologies.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 396092592128
+    m_Localized: Create model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 521485504512
+    m_Localized: Import model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13924358770688
+    m_Localized: Models
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112820203984941056
+    m_Localized: Model Editing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130877745373016064
+    m_Localized: Training options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130878000629968896
+    m_Localized: Coverage training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130878137704017920
+    m_Localized: Polyp detection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130881748752297984
+    m_Localized: Trainings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320124363150036992
+    m_Localized: 'Contact: adrian.lugilde@det.uvigo.es'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320398834423402496
+    m_Localized: Edit model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 320532671094689792
+    m_Localized: 'ROOM READY
+
+
+      PLEASE ENTER THE ROOM'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361318552621387776
+    m_Localized: Enter room
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

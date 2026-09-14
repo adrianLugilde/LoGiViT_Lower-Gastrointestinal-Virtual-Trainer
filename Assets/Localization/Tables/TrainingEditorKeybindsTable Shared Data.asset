@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TrainingEditorKeybindsTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TrainingEditorKeybindsTable
+  m_TableCollectionNameGuidString: 2481ce4dd86754a43be620190c7a2441
+  m_Entries:
+  - m_Id: 45623914496
+    m_Key: rotateKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333520941056
+    m_Key: sidewaysMovementKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433374736384
+    m_Key: sidewaysMovementText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692595306496
+    m_Key: downMovementText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1227306151936
+    m_Key: upMovementText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1309627756544
+    m_Key: sidewasyMovementAltKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6870255644672
+    m_Key: undoKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6913326952448
+    m_Key: redoKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7447781945344
+    m_Key: selectKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7614388088832
+    m_Key: multipleSelectionKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7682977542144
+    m_Key: multipleSelectionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7815647571968
+    m_Key: boxSelectionKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7851471122432
+    m_Key: boxSelectionText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8008354869248
+    m_Key: changeZoomKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8035622039552
+    m_Key: changeZoomText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8441253179392
+    m_Key: increaseDiseaseSizeKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8468503572480
+    m_Key: increaseDiseaseSizeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8559524163584
+    m_Key: decreaseDiseaseSizeKeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8578964762624
+    m_Key: decreaseDiseaseSizeText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18060654522368
+    m_Key: undoText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18130468712448
+    m_Key: redoText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18182687797248
+    m_Key: rotateText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2198801369908641806
+  references:
+    version: 2
+    RefIds:
+    - rid: 2198801369908641806
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1673280436099

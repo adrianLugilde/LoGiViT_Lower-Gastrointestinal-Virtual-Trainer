@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UIToolkit/StyleSheets/LoGiViTStyleVariables.uss?fileID=7433441132597879392&amp;guid=fb1cdcbf63e3cc44abfe0966bfe69e51&amp;type=3#LoGiViTStyleVariables"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit/StyleSheets/ListItemStyles.uss?fileID=7433441132597879392&amp;guid=c8a6751f3809b194bb679a0a7ba988d2&amp;type=3#ListItemStyles"/>
+    <ui:VisualElement name="" class="list-item" style="height: 50px;">
+        <ui:VisualElement name="" class="list-item-data">
+            <ui:Label text="Item name" name="item-title" class="item-title item-text"/>
+            <ui:Label text="Item description" name="item-description" class="item-description item-text"/>
+        </ui:VisualElement>
+        <ui:Image name="item-image" class="list-item-image"/>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be84dbdc55507764f8f4c9a940f48edc, type: 3}
+  m_Name: Polyp 12
+  m_EditorClassIdentifier: Assembly-CSharp::PolypProfile
+  id: 0981672e-106f-44ed-95f7-e63f84be6262
+  displayName: Polyp 12
+  description: Pedunculated - Adenoma
+  mesh: {fileID: -5390104783062761433, guid: 6ecbf39d7dd0d8c48843d0b5b8dec1fc, type: 3}
+  materials:
+  - {fileID: 2100000, guid: efb8e48730553fd41bce024ff53b5ceb, type: 2}
+  meshSprite: {fileID: 21300000, guid: 5dba779adb9e2e54dac5cd4bab4be307, type: 3}
+  image: {fileID: 2800000, guid: 195a6c659731b294b9783e2e9b8d0e44, type: 3}
+  jnetClass: 1
+  parisClass: 0

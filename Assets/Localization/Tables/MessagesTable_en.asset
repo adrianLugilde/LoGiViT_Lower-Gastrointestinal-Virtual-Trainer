@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MessagesTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1399342660410934ab461cc2d5677e44, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5346373302941384706
+  m_TableData:
+  - m_Id: 12255055872
+    m_Localized: In development, please try again later.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90587877376
+    m_Localized: An unexpected error occurred, please try again later.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205696356352
+    m_Localized: No results found for the given input query.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342430666752
+    m_Localized: Error creating the relative paths of the files.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769968656384
+    m_Localized: File not found. Please try again later.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 840575569920
+    m_Localized: The specified file has an invalid extension.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 979188928512
+    m_Localized: Error while parsing the file. The file does not have the expected
+      file format.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2718260613120
+    m_Localized: Please, type a name for the file.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2792852115456
+    m_Localized: A file with the given name already exists. Click accept to overwrite.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2894492684288
+    m_Localized: The file was modified. Discard changes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946707574784
+    m_Localized: The file will be permanently deleted. Click accept to confirm.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006929391616
+    m_Localized: The file was successfully deleted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4103114936320
+    m_Localized: The file was successfully imported.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4183591047168
+    m_Localized: The file was successfully exported.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250389532672
+    m_Localized: The file was successfully saved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4319419387904
+    m_Localized: Set a name and an optional description.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4401468362752
+    m_Localized: This action will disable tract and details edition. Click accept
+      to continue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4559618789376
+    m_Localized: This action will remove all the diseases. Click accept to continue.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10888130441216
+    m_Localized: Invalid preset save configuration. Select TWO nodes (the end nodes)
+      try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051200808542208
+    m_Localized: There is a preset in preview. Would you like to apply the preset?
+      Press accept to confirm.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117936399323750400
+    m_Localized: There is no VR system connected. VR display mode unavailable.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132038946317656064
+    m_Localized: The time limit indicated is not valid.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132227923054157824
+    m_Localized: Are you sure you want to restart training? Press accept to confirm.
+    m_Metadata:
+      m_Items:
+      - rid: 5346373302941384706
+  - m_Id: 196007629129506816
+    m_Localized: Confirm the location of the disease.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226874707334819840
+    m_Localized: No polyps detected.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226875073803743232
+    m_Localized: Invalid polyp detection. Get a better point of view and try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226913002177589248
+    m_Localized: Training started
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355873647635828736
+    m_Localized: Training paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361366243413954560
+    m_Localized: Exiting the room will end the training. Do you want to continue?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361656489682767872
+    m_Localized: The preset was modified. Discard changes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361656622419906560
+    m_Localized: The model was modified. Discard changes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363602354609688576
+    m_Localized: Please, introduce your name.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363808273012461568
+    m_Localized: Training results added to the ranking.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363808446929276928
+    m_Localized: The training results did not place within the top 10 and were therefore
+      not included in the ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438806581089394688
+    m_Localized: Settings changes not saved. Do you want to continue?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439289040676917248
+    m_Localized: Exiting the room will end the editing. Do you want to continue?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5346373302941384706
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 132227923054157824

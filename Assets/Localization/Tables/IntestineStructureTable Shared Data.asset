@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: IntestineStructureTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: IntestineStructureTable
+  m_TableCollectionNameGuidString: 541b3c51c24c2df408c049e7f8ff135c
+  m_Entries:
+  - m_Id: 11945893888
+    m_Key: Rectum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56233549824
+    m_Key: RectumSigmoid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145307983872
+    m_Key: Descending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232041996288
+    m_Key: Transverse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318364966912
+    m_Key: Ascending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363227242496
+    m_Key: Cecum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59323187716096
+    m_Key: IlleocecalValve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59392079159296
+    m_Key: HepaticFlexure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59467861843968
+    m_Key: SplenicFlexure
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 538926827227840514
+  references:
+    version: 2
+    RefIds:
+    - rid: 538926827227840514
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1738684739882

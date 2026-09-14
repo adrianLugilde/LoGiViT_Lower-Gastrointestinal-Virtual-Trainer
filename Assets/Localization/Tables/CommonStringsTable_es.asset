@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CommonStringsTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 7d87024cace34a64c914b53df2ccb4a3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 35625717760
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82576756736
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 144258191360
+    m_Localized: Probar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210003906560
+    m_Localized: Exportar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 242438459392
+    m_Localized: Editar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273845407744
+    m_Localized: Eliminar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12025416994816
+    m_Localized: Filtrar por nombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31475159617536
+    m_Localized: Crear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31541110853632
+    m_Localized: Aplicar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31591937429504
+    m_Localized: Importar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36183593013248
+    m_Localized: Guardar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36646031806464
+    m_Localized: Guardar como
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60487016755200
+    m_Localized: Nombre del fichero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60531006615552
+    m_Localized: "Descripci\xF3n del fichero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60824687587328
+    m_Localized: CARGANDO...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63469762490368
+    m_Localized: Aceptar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 63499810484224
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117794144628736
+    m_Localized: Seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131180844658688
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399085283041280
+    m_Localized: "Asignaci\xF3n de teclas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 399378028683264
+    m_Localized: "Gu\xEDa b\xE1sica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 848519211474944
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111677565936726016
+    m_Localized: "Modo de visualizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131928800845357056
+    m_Localized: Reanudar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131928863361458176
+    m_Localized: Pausado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131928921842638848
+    m_Localized: Reiniciar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132743299890405376
+    m_Localized: Resultados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135309620813488128
+    m_Localized: Pausar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214935248168280064
+    m_Localized: "Puntuaci\xF3n final"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215744763558092800
+    m_Localized: "Puntuaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353452163416035328
+    m_Localized: "Minutos en n\xFAmero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355968557756026880
+    m_Localized: "Puntucaci\xF3n de la pregunta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355994452852051968
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355994491804553216
+    m_Localized: Anterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363653416762839040
+    m_Localized: Nombre de usuario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363933354174812160
+    m_Localized: "Visualizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363935306556215296
+    m_Localized: Nombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363935484205961216
+    m_Localized: Tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363935456523554816
+    m_Localized: "Puntuaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363936317962293248
+    m_Localized: "P\xF3lipos identificados"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

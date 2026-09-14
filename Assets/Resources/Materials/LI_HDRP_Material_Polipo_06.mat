@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LI_HDRP_Material_Polipo_06
+  m_Shader: {fileID: -6465566751694194690, guid: 9c354a2fc50833c40911a171accaaecf, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _DISABLE_SSR_TRANSPARENT
+  - _ENABLE_FOG_ON_TRANSPARENT
+  - _MATERIAL_FEATURE_CLEAR_COAT
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap:
+    MotionVector: User
+    RenderType: Transparent
+  disabledShaderPasses:
+  - TransparentDepthPrepass
+  - TransparentDepthPostpass
+  - TransparentBackface
+  - RayTracingPrepass
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Texture2DAsset_07fc7c763a1840458e1617ca70775900_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e2c081f6f29b603458359ef5ae2c7246, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_08a4cfd3d70d4f5b9122609b436c9190_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 73db3d43d62a7904cbe34f64f0f79269, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_10ff9e558c20462ba34af5d3429077ec_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: de4e9f068950e314987fe338012d4ad7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_179c7066304f416fb4ccb9941f875126_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4eac469d59a4a634bb2218b27b13c0e1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_3c28f2802f7b4c328db8dd77b008c194_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 6e4e0df19178ee0408482fe4074c1276, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_601d900156554091ba1c9b8366650638_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 6e4e0df19178ee0408482fe4074c1276, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6340b0ab033c4c3fa458841c50686514_Out_0_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_7a846c917a6c423face870c838e61052_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e2c081f6f29b603458359ef5ae2c7246, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_8398049154bc4e5885eafe55083fb439_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: de4e9f068950e314987fe338012d4ad7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_87829d7629ed45ef8456bcb27641ff3d_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: de4e9f068950e314987fe338012d4ad7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_97f247995e86484c87832df718469454_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e894602c5d36a934aa6bd7f3043ad573, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_a4aab4025b554fb4a12b02e8f7709c7a_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e2c081f6f29b603458359ef5ae2c7246, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_a6d315d0d8a8487c8935d55726f6348d_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 4eac469d59a4a634bb2218b27b13c0e1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_fb7415f7820e48528d0d37a3e58c945d_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 73db3d43d62a7904cbe34f64f0f79269, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AddPrecomputedVelocity: 0
+    - _AlphaCutoffEnable: 0
+    - _AlphaDstBlend: 10
+    - _AlphaSrcBlend: 1
+    - _BlendMode: 0
+    - _Brillo: 1
+    - _ClearCoatEnabled: 1
+    - _ConservativeDepthOffsetEnable: 0
+    - _CullMode: 2
+    - _CullModeForward: 2
+    - _DepthOffsetEnable: 0
+    - _DoubleSidedEnable: 0
+    - _DoubleSidedGIMode: 0
+    - _DoubleSidedNormalMode: 2
+    - _DstBlend: 10
+    - _DstBlend2: 10
+    - _EnableBlendModePreserveSpecularLighting: 1
+    - _EnableFogOnTransparent: 1
+    - _EscalaTubulos: 5.25
+    - _ExcludeFromTUAndAA: 0
+    - _MaterialID: 1
+    - _MaterialTypeMask: 2
+    - _NBI: 0
+    - _NBI_: 1
+    - _NBI_PresenciaTubulos: -0.236
+    - _NBI_transparencia_adenoma: -0.5
+    - _Opacidad_Tejido_NBI: -0.336
+    - _Opacidad_capilares_polipos: -0.422
+    - _Opacidad_capilares_polipos_NBI: -0.422
+    - _Opacidad_tejido: 0.92
+    - _OpaqueCullMode: 2
+    - _PerPixelSorting: 0
+    - _Profundidad_tubulos: 0.2
+    - _RayTracing: 0
+    - _ReceivesSSR: 1
+    - _ReceivesSSRTransparent: 0
+    - _Reflectividad: 0
+    - _RefractionModel: 0
+    - _Relieve_tubulos: 2
+    - _RenderQueueType: 4
+    - _RequireSplitLighting: 0
+    - _SrcBlend: 1
+    - _StencilRef: 0
+    - _StencilRefDepth: 0
+    - _StencilRefDistortionVec: 4
+    - _StencilRefGBuffer: 2
+    - _StencilRefMV: 32
+    - _StencilWriteMask: 6
+    - _StencilWriteMaskDepth: 9
+    - _StencilWriteMaskDistortionVec: 4
+    - _StencilWriteMaskGBuffer: 15
+    - _StencilWriteMaskMV: 41
+    - _SupportDecals: 1
+    - _SurfaceType: 1
+    - _TEST: -0.73
+    - _TransmissionEnable: 1
+    - _Transparencia_tejido: 0.5
+    - _TransparentBackfaceEnable: 0
+    - _TransparentCullMode: 2
+    - _TransparentDepthPostpassEnable: 0
+    - _TransparentDepthPrepassEnable: 0
+    - _TransparentSortPriority: 0
+    - _TransparentWritingMotionVec: 0
+    - _TransparentZWrite: 0
+    - _UseShadowThreshold: 0
+    - _Value: 1
+    - _ZTestDepthEqualForOpaque: 4
+    - _ZTestGBuffer: 4
+    - _ZTestTransparent: 4
+    - _ZWrite: 0
+    - _altura_sangre: 0.06
+    - _hue: 0
+    - _opacidad_capilares_polipo: -1.24
+    - _saturation: 1
+    - _transparencia_adenoma: 1
+    m_Colors:
+    - _COLOR_TEST: {r: 0.2689427, g: 0.3679245, b: 0.1995817, a: 1}
+    - _Color_Base_Tejido: {r: 1, g: 0, b: 0.08235294, a: 1}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Sangre_NBI: {r: 0.32075468, g: 0.03479887, b: 0.067376114, a: 1}
+    - _color_tejido_NBI: {r: 0.321173, g: 0.397, b: 0.39196476, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &2209730531763526049
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Editor::UnityEditor.Rendering.HighDefinition.AssetVersion
+  version: 13
+  hdPluginSubTargetMaterialVersions:
+    m_Keys: []
+    m_Values: 

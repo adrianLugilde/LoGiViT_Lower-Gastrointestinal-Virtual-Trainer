@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ModelEditorBaseTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ModelEditorBaseTable
+  m_TableCollectionNameGuidString: 3f71b064bf66fb14f90791bbc75841a9
+  m_Entries:
+  - m_Id: 20408782848
+    m_Key: tract
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210565943296
+    m_Key: presets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336793522176
+    m_Key: details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511956045824
+    m_Key: diseases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 605023457280
+    m_Key: preview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 690750836736
+    m_Key: modelData
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801023283200
+    m_Key: saveModel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 874977251328
+    m_Key: saveModelAs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 946515300352
+    m_Key: exitEdition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090128269312
+    m_Key: moveSelection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1215642816512
+    m_Key: rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1289521287168
+    m_Key: joinedNodes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1375949115392
+    m_Key: focus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1477765844992
+    m_Key: undo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1523215323136
+    m_Key: redo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2580356091904
+    m_Key: placeDisease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2640271724544
+    m_Key: centerCamera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8477019033600
+    m_Key: availablePresets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11494489411584
+    m_Key: presetsEdition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11558897143808
+    m_Key: presetsEditionInstructions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12356603432960
+    m_Key: preset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12356959948800
+    m_Key: presetDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18147725103104
+    m_Key: modelName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18215572164608
+    m_Key: modelDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355751248257024
+    m_Key: outsideView
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355827437789184
+    m_Key: insideView
+    m_Metadata:
+      m_Items: []
+  - m_Id: 434238146125824
+    m_Key: previewAlert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 702800022429696
+    m_Key: help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739873643257856
+    m_Key: displacementLimitReached
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067212585033728
+    m_Key: managePresets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081737761775616
+    m_Key: enlargeDiseaseButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081770947108864
+    m_Key: shrinkDiseaseButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23177697567703040
+    m_Key: leftLateralPosition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23178106998882304
+    m_Key: rightLateralPosition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23178108848570368
+    m_Key: supinePosition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23178110559846400
+    m_Key: pronePosition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26799320671080448
+    m_Key: edition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428977780436992
+    m_Key: diseasesModeDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127212056021032960
+    m_Key: multipleSelection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269007269709471744
+    m_Key: randomModel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315028630443249664
+    m_Key: presetName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315028681127219200
+    m_Key: "presetDescription\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317448682674950144
+    m_Key: inferior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317448739172225024
+    m_Key: middle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317448767852875776
+    m_Key: superior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317477798249861120
+    m_Key: general
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319266115563917312
+    m_Key: dataRequired
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357434504626933760
+    m_Key: modelEditor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357436139864428544
+    m_Key: modelEditorDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357999770121375744
+    m_Key: parisClass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357999974136516608
+    m_Key: jnetClass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365689091943141376
+    m_Key: clearSelection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429913649407168512
+    m_Key: restoreRotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431273237577457664
+    m_Key: surfaceNoise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431273565442007040
+    m_Key: torsionNoise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431335759085035520
+    m_Key: surfaceNoiseDepth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431336449689772032
+    m_Key: surfaceNoiseDensity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431336610876874752
+    m_Key: maximumTorsionAngle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431342213879816192
+    m_Key: newNoiseSeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432334340361281536
+    m_Key: modelNoiseSettings
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2198801365987754053
+  references:
+    version: 2
+    RefIds:
+    - rid: 2198801365987754053
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1673259599198

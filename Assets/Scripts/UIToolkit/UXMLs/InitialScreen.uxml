@@ -1,0 +1,45 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="HeaderFragment" src="project://database/Assets/Scripts/UIToolkit_mine/UXMLs/HeaderFragment.uxml?fileID=9197481963319205126&amp;guid=948c7a1178ffcab4585d368b58ffc3a2&amp;type=3#HeaderFragment"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/InitialScreenStyles.uss?fileID=7433441132597879392&amp;guid=199cbfbc398f0744eabff51775d289d6&amp;type=3#InitialScreenStyles"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/PreparationDeskUIStyles.uss?fileID=7433441132597879392&amp;guid=793d46e89bb59f64082d89ce4018a533&amp;type=3#PreparationDeskUIStyles"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/LoGiViTStyleVariables.uss?fileID=7433441132597879392&amp;guid=fb1cdcbf63e3cc44abfe0966bfe69e51&amp;type=3#LoGiViTStyleVariables"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/HeaderFragmentStyles.uss?fileID=7433441132597879392&amp;guid=857911dc3e142f54bb6986c6db0e69fc&amp;type=3#HeaderFragmentStyles"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/PreparationDeskButtons.uss?fileID=7433441132597879392&amp;guid=e87e15e4b6b1e134e90ce54f691b3576&amp;type=3#PreparationDeskButtons"/>
+    <ui:VisualElement name="root" class="root" style="width: 100%; height: 100%; padding-left: 2.5%; padding-right: 2.5%; padding-bottom: 2.5%; padding-top: 0%;">
+        <ui:Instance template="HeaderFragment" style="flex-shrink: 0; -unity-text-auto-size: none;"/>
+        <ui:VisualElement name="body" class="body">
+            <ui:Label text="Welcome to LoGIViT!&#10;&#10;&#10;LoGIViT is an editor of the large intestine for the practice of colonoscopy through a virtual simulator. You can create and use different models of the large intestine by varying its size, shape, position and pathologies." class="body-welcome asdf" style="border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0;"/>
+            <ui:VisualElement class="body-btns">
+                <ui:Button text="Entrenamientos" name="btn-trainings" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:c7b1241be07e16f40bd910ab8598158e" entry="Id(130881748752297984)"/>
+                    </Bindings>
+                </ui:Button>
+                <ui:Button text="Edición de modelos" name="btn-editing" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:c7b1241be07e16f40bd910ab8598158e" entry="Id(112820203984941056)"/>
+                    </Bindings>
+                </ui:Button>
+                <ui:Button text="Configuración" name="btn-settings" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:7d87024cace34a64c914b53df2ccb4a3" entry="Id(35625717760)"/>
+                    </Bindings>
+                </ui:Button>
+                <ui:Button text="Salir" name="btn-exit" enable-rich-text="false" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:7d87024cace34a64c914b53df2ccb4a3" entry="Id(82576756736)"/>
+                    </Bindings>
+                </ui:Button>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="footer" class="footer">
+            <ui:Image source="project://database/Assets/Textures/Images/GIST.png?fileID=2800000&amp;guid=cd92d5e53c64ab246923aa07038ad505&amp;type=3#GIST" name="Image" class="footer-component asdf"/>
+            <ui:Label text="Contact: adrian.lugilde@det.uvigo.es" parse-escape-sequences="true" class="footer-contact footer-component asdf">
+                <Bindings>
+                    <UnityEngine.Localization.LocalizedString property="text" table="GUID:c7b1241be07e16f40bd910ab8598158e" entry="Id(320124363150036992)"/>
+                </Bindings>
+            </ui:Label>
+            <ui:Image source="project://database/Assets/Textures/Images/atlantic.png?fileID=2800000&amp;guid=d8d99f56b9bb53840b53b528434e0048&amp;type=3#atlantic" class="footer-component"/>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

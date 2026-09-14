@@ -1,0 +1,1280 @@
+{
+  "intestineSegments": [
+    {
+      "liSegment": 0,
+      "liSections": [
+        {
+          "meshName": "rectum",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4124451,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            25.0,
+            30.0,
+            15.0,
+            20.0,
+            20.0,
+            25.0,
+            60.0,
+            15.0,
+            0.0,
+            0.0,
+            100.0,
+            100.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "rectum",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            25.0,
+            30.0,
+            20.0,
+            25.0,
+            25.0,
+            30.0,
+            0.0,
+            0.0,
+            100.0,
+            100.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            100.0,
+            100.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "rectum",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            25.0,
+            30.0,
+            25.0,
+            30.0,
+            30.0,
+            35.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            0.0,
+            0.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "rectum",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            30.0,
+            35.0,
+            30.0,
+            35.0,
+            35.0,
+            40.0,
+            0.0,
+            0.0,
+            100.0,
+            100.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            37.5,
+            40.0,
+            35.0,
+            40.0,
+            40.0,
+            45.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        }
+      ]
+    },
+    {
+      "liSegment": 1,
+      "liSections": [
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            42.5,
+            50.0,
+            40.0,
+            45.0,
+            45.0,
+            55.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            47.5,
+            60.0,
+            45.0,
+            55.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        }
+      ]
+    },
+    {
+      "liSegment": 2,
+      "liSections": [
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            22.3317127,
+            0.0,
+            20.09853,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            22.3317127,
+            16.7487545,
+            20.09853,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        }
+      ]
+    },
+    {
+      "liSegment": 3,
+      "liSections": [
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            16.7487545,
+            17.8653622,
+            17.8653622,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            16.7487545,
+            0.0,
+            17.8653622,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        }
+      ]
+    },
+    {
+      "liSegment": 4,
+      "liSections": [
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        }
+      ]
+    },
+    {
+      "liSegment": 5,
+      "liSections": [
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0,
+            50.0,
+            65.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            75.0,
+            85.0,
+            50.0,
+            65.0,
+            100.0,
+            110.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "defaultSection",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            61.4123955,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            75.0,
+            85.0,
+            100.0,
+            110.0,
+            120.0,
+            120.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "cecum",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            61.4123955,
+            0.0,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            65.0,
+            70.0,
+            120.0,
+            120.0,
+            0.0,
+            0.0,
+            120.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        },
+        {
+          "meshName": "cecum",
+          "materialsNames": [
+            "LI_HDRP_Material_pre_19_11_24"
+          ],
+          "blendshapesWeights": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            20.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            120.0,
+            0.0
+          ],
+          "Mesh": null,
+          "Materials": null
+        }
+      ]
+    }
+  ],
+  "fileName": "",
+  "fileID": 108217697723506
+}

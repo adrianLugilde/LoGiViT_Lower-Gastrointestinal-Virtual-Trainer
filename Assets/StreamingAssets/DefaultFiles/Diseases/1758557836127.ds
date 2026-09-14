@@ -1,0 +1,19 @@
+{
+  "type": 0,
+  "name": "Polyp 1",
+  "description": "Polyp 1",
+  "meshName": "Polyp_1",
+  "materialsNames": [
+    "LI_HDRP_Material-Poli01"
+  ],
+  "meshSpriteName": "Polyp_1",
+  "imageName": "Polyp_1",
+  "jnetClass": 1,
+  "parisClass": 2,
+  "size": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  }
+}

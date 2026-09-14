@@ -1,0 +1,19 @@
+{
+  "type": 0,
+  "name": "Polyp 12",
+  "description": "Polyp 12",
+  "meshName": "Polyp_12",
+  "materialsNames": [
+    "LI_HDRP_Material-Poli12"
+  ],
+  "meshSpriteName": "Polyp_12",
+  "imageName": "Polyp_12",
+  "jnetClass": 1,
+  "parisClass": 0,
+  "size": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  }
+}

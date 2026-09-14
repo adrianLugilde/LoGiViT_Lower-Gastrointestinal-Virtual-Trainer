@@ -1,0 +1,24 @@
+.footer {
+    height: 10%;
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+.body {
+    height: 75%;
+    flex-grow: 1;
+}
+
+.footer-btns {
+    flex-grow: 1;
+    flex-direction: row;
+    padding-left: 10%;
+    padding-right: 10%;
+    flex-shrink: 1;
+}
+
+.body-list {
+    flex-grow: 1;
+    height: 100%;
+    width: 100%;
+}

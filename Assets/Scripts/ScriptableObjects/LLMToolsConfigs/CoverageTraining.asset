@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab852198e9276564fab61d1ed8b4f9ff, type: 3}
+  m_Name: CoverageTraining
+  m_EditorClassIdentifier: 
+  toolsJson: "{\r\n  \"tools\": [\r\n    {\r\n      \"type\": \"function\",\r\n     
+    \"function\": {\r\n        \"name\": \"StartTraining\",\r\n        \"description\":
+    \"Begin a training session: switches UI to in-progress, enables movement/actions,
+    initializes coverage tracking.\",\r\n        \"parameters\": { \"type\": \"object\",
+    \"properties\": {}, \"additionalProperties\": false }\r\n      }\r\n    },\r\n   
+    {\r\n      \"type\": \"function\",\r\n      \"function\": {\r\n        \"name\":
+    \"PauseTraining\",\r\n        \"description\": \"Pause the current training session:
+    freezes updates/timers and shows paused UI.\",\r\n        \"parameters\": { \"type\":
+    \"object\", \"properties\": {}, \"additionalProperties\": false }\r\n      }\r\n   
+    },\r\n    {\r\n      \"type\": \"function\",\r\n      \"function\": {\r\n       
+    \"name\": \"ResumeTraining\",\r\n        \"description\": \"Resume a paused training
+    session and restore in-progress UI/profile.\",\r\n        \"parameters\": { \"type\":
+    \"object\", \"properties\": {}, \"additionalProperties\": false }\r\n      }\r\n   
+    },\r\n    {\r\n      \"type\": \"function\",\r\n      \"function\": {\r\n       
+    \"name\": \"FinishTraining\",\r\n        \"description\": \"Finish the training:
+    stop updates, compute final stats/score, show results UI.\",\r\n        \"parameters\":
+    { \"type\": \"object\", \"properties\": {}, \"additionalProperties\": false }\r\n     
+    }\r\n    },\r\n    {\r\n      \"type\": \"function\",\r\n      \"function\":
+    {\r\n        \"name\": \"RestartTraining\",\r\n        \"description\": \"Reset
+    state and UI to allow a fresh run; clears results view and timers.\",\r\n       
+    \"parameters\": { \"type\": \"object\", \"properties\": {}, \"additionalProperties\":
+    false }\r\n      }\r\n    },\r\n\r\n    {\r\n      \"type\": \"function\",\r\n     
+    \"function\": {\r\n        \"name\": \"SetTimeLimitState\",\r\n        \"description\":
+    \"Enable or disable the time limit configuration and its UI.\",\r\n        \"parameters\":
+    {\r\n          \"type\": \"object\",\r\n          \"properties\": { \"state\":
+    { \"type\": \"boolean\", \"description\": \"True to enable the time limit; false
+    to disable.\" } },\r\n          \"required\": [\"state\"],\r\n          \"additionalProperties\":
+    false\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"type\": \"function\",\r\n     
+    \"function\": {\r\n        \"name\": \"SetCoverageStatsViewState\",\r\n       
+    \"description\": \"Show or hide the coverage stats view and related UI elements.\",\r\n       
+    \"parameters\": {\r\n          \"type\": \"object\",\r\n          \"properties\":
+    { \"state\": { \"type\": \"boolean\", \"description\": \"True to show coverage
+    stats; false to hide.\" } },\r\n          \"required\": [\"state\"],\r\n         
+    \"additionalProperties\": false\r\n        }\r\n      }\r\n    },\r\n    {\r\n     
+    \"type\": \"function\",\r\n      \"function\": {\r\n        \"name\": \"SetAIAssistanceEnable\",\r\n       
+    \"description\": \"Master toggle for AI assistance features.\",\r\n        \"parameters\":
+    {\r\n          \"type\": \"object\",\r\n          \"properties\": { \"isEnabled\":
+    { \"type\": \"boolean\", \"description\": \"True to enable AI assistance; false
+    to disable.\" } },\r\n          \"required\": [\"isEnabled\"],\r\n          \"additionalProperties\":
+    false\r\n        }\r\n      }\r\n    },\r\n    {\r\n      \"type\": \"function\",\r\n     
+    \"function\": {\r\n        \"name\": \"ToggleInsideCoverageView\",\r\n       
+    \"description\": \"Toggle the inside-coverage camera view on/off.\",\r\n       
+    \"parameters\": { \"type\": \"object\", \"properties\": {}, \"additionalProperties\":
+    false }\r\n      }\r\n    },\r\n\r\n    {\r\n      \"type\": \"function\",\r\n     
+    \"function\": {\r\n        \"name\": \"ToggleAIVoiceAssistance\",\r\n       
+    \"description\": \"Toggle TTS (text-to-speech) on the OpenAI audio client.\",\r\n       
+    \"parameters\": { \"type\": \"object\", \"properties\": {}, \"additionalProperties\":
+    false }\r\n      }\r\n    },\r\n\r\n    {\r\n      \"type\": \"function\",\r\n     
+    \"function\": {\r\n        \"name\": \"SaveTrainingResults\",\r\n        \"description\":
+    \"Save the current training result (score, time, coverage) to the ranking board.\",\r\n       
+    \"parameters\": {\r\n          \"type\": \"object\",\r\n          \"properties\":
+    {\r\n            \"name\": { \"type\": \"string\", \"minLength\": 1, \"description\":
+    \"Player name to tag the saved result with.\" }\r\n          },\r\n         
+    \"required\": [\"name\"],\r\n          \"additionalProperties\": false\r\n       
+    }\r\n      }\r\n    },\r\n    {\r\n      \"type\": \"function\",\r\n      \"function\":
+    {\r\n        \"name\": \"ShowRanking\",\r\n        \"description\": \"Open the
+    ranking window.\",\r\n        \"parameters\": { \"type\": \"object\", \"properties\":
+    {}, \"additionalProperties\": false }\r\n      }\r\n    },\r\n\r\n    {\r\n     
+    \"type\": \"function\",\r\n      \"function\": {\r\n        \"name\": \"ExitTrainingRoom\",\r\n       
+    \"description\": \"Request exiting the training room (fires the OnExitTrainingRoomRequested
+    event).\",\r\n        \"parameters\": { \"type\": \"object\", \"properties\":
+    {}, \"additionalProperties\": false }\r\n      }\r\n    }\r\n  ]\r\n}\r"
