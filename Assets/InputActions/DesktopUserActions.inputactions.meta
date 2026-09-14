@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6b18ab9ec07ea24ba283be1d7947dc9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/InputActions/DesktopUserActions.cs
+  wrapperClassName: 
+  wrapperCodeNamespace: 

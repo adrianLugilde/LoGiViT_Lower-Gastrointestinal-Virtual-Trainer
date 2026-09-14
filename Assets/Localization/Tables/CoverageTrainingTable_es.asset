@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CoverageTrainingTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 63b57812e6c8cfa42bee33ccc79a08ea, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33752080384
+    m_Localized: "Configuraci\xF3n de entrenamiento"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4197987115008
+    m_Localized: "L\xEDmite de tiempo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15899717787648
+    m_Localized: "Permitir la vista del \xF3rgano explorado durante el entrenamiento"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16736703733760
+    m_Localized: "Mostrar datos de exploraci\xF3n durante el entrenamiento"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19677409959936
+    m_Localized: Empezar entrenamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389481908133888
+    m_Localized: Tiempo transcurrido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389580818210816
+    m_Localized: Tiempo restante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389697461805056
+    m_Localized: "% \xD3rgano explorado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390707689283584
+    m_Localized: Datos del entrenamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 838825086017536
+    m_Localized: Finalizar entrenamiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501842066956288
+    m_Localized: '% Recto explorado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501881581494272
+    m_Localized: '% Sigmoide explorado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501918793359360
+    m_Localized: '% Colon descendente explorado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501969909342208
+    m_Localized: '% Colon transverso explorado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55502001073020928
+    m_Localized: '% Colon ascendente explorado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55502041610969088
+    m_Localized: '% Ciego explorado'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891362591707136
+    m_Localized: Entrenamiento en curso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891629844369408
+    m_Localized: Entrenamiento pausado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891694646366208
+    m_Localized: Entrenamiento finalizado - Resultados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223995391048257536
+    m_Localized: "Entrenamiento pausado para identificaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226296409333272576
+    m_Localized: Habilitar asistencia con IA
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

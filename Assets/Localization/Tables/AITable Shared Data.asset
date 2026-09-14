@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AITable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AITable
+  m_TableCollectionNameGuidString: 878854c836e64dd439825e153641a24e
+  m_Entries:
+  - m_Id: 7290216448
+    m_Key: aiAssistant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607046418919424
+    m_Key: listeningSTTInput
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415788347023360
+    m_Key: AITTSEnabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415807074590720
+    m_Key: AITTSDisabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465174783451136
+    m_Key: coverageTrainingHelperSystemPrompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465211374559232
+    m_Key: polypTrainingHelperSystemPrompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12467510201278464
+    m_Key: defaultSystemPrompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30794297465364480
+    m_Key: coverageTrainingSupervisorSystemPrompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30798703703351296
+    m_Key: polypTrainingSupervisorSystemPrompt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847038128644096
+    m_Key: excesiveSpeedLvlOne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847111549935616
+    m_Key: excesiveSpeedLvlTwo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847137739169792
+    m_Key: excesiveSpeedLvlThree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32629188851130368
+    m_Key: excesiveForwardAngulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32631124899913728
+    m_Key: cecumReached
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32636459245101056
+    m_Key: exitingSegment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32667055736479744
+    m_Key: polypIncorrectSizeIdentification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32667196765757440
+    m_Key: polypIncorrectLocationIdentification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32667211588427776
+    m_Key: polypIncorrectJNETIdentification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32667216579649536
+    m_Key: polypIncorrectParisIdentification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32668854778322944
+    m_Key: invalidPolypDetection
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8696147027090735110
+  references:
+    version: 2
+    RefIds:
+    - rid: 8696147027090735110
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1730368153326

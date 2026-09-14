@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MessagesTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 1399342660410934ab461cc2d5677e44, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12255055872
+    m_Localized: "En desarrollo, int\xE9ntelo de nuevo m\xE1s tarde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90587877376
+    m_Localized: "Ocurri\xF3 un error inesperado, int\xE9ntelo de nuevo m\xE1s tarde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205696356352
+    m_Localized: "No se encontraron resultados para la b\xFAsqueda realizada."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342430666752
+    m_Localized: Error al crear las rutas relativas de los ficheros.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769968656384
+    m_Localized: "Archivo no encontrado. Por favor, int\xE9ntelo de nuevo m\xE1s
+      tarde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 840575569920
+    m_Localized: "El archivo especificado tiene una extensi\xF3n no v\xE1lida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 979188928512
+    m_Localized: Error al analizar el archivo. El archivo no tiene el formato de
+      archivo esperado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2718260613120
+    m_Localized: Por favor, escriba un nombre para el archivo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2792852115456
+    m_Localized: Ya existe un archivo con el nombre dado. Haga clic en aceptar para
+      sobrescribir.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2894492684288
+    m_Localized: "El archivo fue modificado. \xBFDescartar los cambios?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946707574784
+    m_Localized: "El archivo se eliminar\xE1 de forma permanente. Haga clic en aceptar
+      para confirmar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006929391616
+    m_Localized: "El archivo se elimin\xF3 con \xE9xito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4103114936320
+    m_Localized: "El archivo se import\xF3 con \xE9xito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4183591047168
+    m_Localized: "El archivo se export\xF3 correctamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250389532672
+    m_Localized: "El archivo se guard\xF3 correctamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4319419387904
+    m_Localized: "Establezca un nombre y una descripci\xF3n opcional."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4401468362752
+    m_Localized: "Esta acci\xF3n deshabilitar\xE1 la edici\xF3n del tracto y de detalles.
+      Haga clic en aceptar para continuar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4559618789376
+    m_Localized: "Esta acci\xF3n eliminar\xE1 todas las enfermedades. Haga clic en
+      aceptar para continuar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10888130441216
+    m_Localized: "Configuraci\xF3n del preset a guardar no v\xE1lida. Seleccione
+      DOS nodos (los extremos) y vuelva a intentarlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051200808542208
+    m_Localized: "Hay un preset en vista previa. \xBFLe gustar\xEDa aplicar el preset?
+      Pulse aceptar para confirmar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117936399323750400
+    m_Localized: "\rNo hay ning\xFAn sistema de realidad virtual conectado. El modo
+      de visualizaci\xF3n VR no est\xE1 disponible."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132038946317656064
+    m_Localized: "El tiempo l\xEDmite indicado no es v\xE1lido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132227923054157824
+    m_Localized: "\xBFEst\xE1 seguro de que quiere reiniciar el entrenamiento? Pulse
+      aceptar para confirmar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196007629129506816
+    m_Localized: "Confirme la localizaci\xF3n de la patolog\xEDa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226874707334819840
+    m_Localized: "Ning\xFAn p\xF3lipo detectado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226875073803743232
+    m_Localized: "Detecci\xF3n de p\xF3lipo inv\xE1lida. Obtenga un mejor punto de
+      vista e int\xE9ntelo de nuevo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226913002177589248
+    m_Localized: Entrenamiento iniciado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355873647635828736
+    m_Localized: Entrenamiento pausado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361366243413954560
+    m_Localized: "Salir de la sala finalizar\xE1 la formaci\xF3n. \xBFQuieres continuar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361656489682767872
+    m_Localized: "El preset fue modificado. \xBFDescartar los cambios?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361656622419906560
+    m_Localized: "El modelo fue modificado. \xBFDescartar los cambios?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363602354609688576
+    m_Localized: Por favor, introduzca su nombre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363808273012461568
+    m_Localized: "Resultados de entrenamiento a\xF1adidos a la clasificaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363808446929276928
+    m_Localized: "Los resultados del entrenamiento no se situaron entre los diez
+      primeros y, por tanto, no se incluyeron en la clasificaci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438806581089394688
+    m_Localized: "Cambios en la configuraci\xF3n sin guardar. \xBFDesea continuar?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439289040676917248
+    m_Localized: "Salir de la sala finalizar\xE1 la edici\xF3n. \xBFQuieres continuar?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

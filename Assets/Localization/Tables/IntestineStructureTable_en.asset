@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: IntestineStructureTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 541b3c51c24c2df408c049e7f8ff135c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11945893888
+    m_Localized: Rectum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56233549824
+    m_Localized: Sigmoid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145307983872
+    m_Localized: Descending segment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232041996288
+    m_Localized: Transverse segment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318364966912
+    m_Localized: Ascending segment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363227242496
+    m_Localized: Cecum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59323187716096
+    m_Localized: Illeocecal valve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59392079159296
+    m_Localized: Hepatic flexure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59467861843968
+    m_Localized: Splenic flexure
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

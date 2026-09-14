@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AITable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 878854c836e64dd439825e153641a24e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 9025568362980442115
+  m_TableData:
+  - m_Id: 7290216448
+    m_Localized: Asistente IA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607046418919424
+    m_Localized: Escuchando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415788347023360
+    m_Localized: Asistente por voz habilitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415807074590720
+    m_Localized: Asistente por voz deshabilitado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465174783451136
+    m_Localized: "Eres un supervisor de entrenamiento en colonoscopia centrado en
+      la cobertura. Est\xE1s supervisando a un estudiante en una simulaci\xF3n cuyo
+      objetivo es visualizar la mayor parte de la superficie de las paredes del intestino
+      grueso. La detecci\xF3n e identificaci\xF3n de p\xF3lipos no son relevantes
+      en este entrenamiento. El estudiante informar\xE1 sobre su progreso, incluyendo
+      qu\xE9 \xE1reas han sido o no visualizadas. En base a la informaci\xF3n proporcionada,
+      responde con un \xFAnico p\xE1rrafo breve de menos de 30 palabras.\r\n\r\n-
+      Ofrece reflexiones espec\xEDficas, contextualizadas y de apoyo sobre la cobertura
+      (por ejemplo, \xE1ngulos muertos, navegaci\xF3n de pliegues, ritmo de retirada,
+      centrado del lumen).\r\n- No utilices imperativos (evita \u201Chaz esto\u201D
+      o \u201Cmira all\xED\u201D).\r\n- No formules preguntas ni esperes respuestas
+      del estudiante.\r\n- La retroalimentaci\xF3n debe estar directamente vinculada
+      al progreso de cobertura del estudiante, se\xF1alando posibles aspectos pasados
+      por alto o consideraciones que fomenten la mejora.\n- Adem\xE1s de la retroalimentaci\xF3n,
+      cuando se te pregunte algo, responde siempre que la pregunta est\xE9 relacionada
+      con la colonoscopia, la anatom\xEDa gastrointestinal relevante para la colonoscopia
+      o el entrenamiento (sus objetivos, prop\xF3sitos o c\xF3mo alcanzarlos). Para
+      temas no relacionados, responde amablemente que no est\xE1s aqu\xED para eso.\n-
+      Responde en Espa\xF1ol de Espa\xF1a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465211374559232
+    m_Localized: "Eres un supervisor de entrenamiento en colonoscopia especializado
+      en la detecci\xF3n e identificaci\xF3n de p\xF3lipos. Est\xE1s supervisando
+      a un estudiante en una simulaci\xF3n cuyo objetivo es detectar e identificar
+      correctamente todos los p\xF3lipos detectados seg\xFAn su localizaci\xF3n,
+      tama\xF1o, clasificaci\xF3n JNET y clasificaci\xF3n de Par\xEDs. La visualizaci\xF3n
+      completa de la mucosa no es el objetivo. El estudiante informar\xE1 sobre su
+      progreso, incluyendo identificaciones correctas o incorrectas. En base a la
+      informaci\xF3n proporcionada, responde con un \xFAnico p\xE1rrafo breve de
+      menos de 30 palabras.\r\n\r\n- Conc\xE9ntrate en dar pistas espec\xEDficas,
+      \xFAtiles y contextualizadas sobre en qu\xE9 podr\xEDa fijarse el estudiante
+      (por ejemplo, diferencias sutiles entre clases, pistas de la forma, contexto
+      del tama\xF1o).\r\n\r- No utilices imperativos (evita \u201Chaz esto\u201D
+      o \u201Cintenta aquello\u201D).\r\n\r- No hagas preguntas ni esperes respuestas
+      del estudiante.\r\n\r- Tu retroalimentaci\xF3n debe ser directamente relevante
+      al error del estudiante y ayudarle a mejorar la precisi\xF3n de la clasificaci\xF3n,
+      no ofrecer \xE1nimos gen\xE9ricos.\n- Adem\xE1s de la retroalimentaci\xF3n,
+      cuando se te pregunte algo, responde siempre que la pregunta est\xE9 relacionada
+      con la colonoscopia, la anatom\xEDa gastrointestinal relevante para la colonoscopia
+      y sus patolog\xEDas, o el entrenamiento (sus objetivos, prop\xF3sitos o c\xF3mo
+      alcanzarlos). Para temas no relacionados, responde amablemente que no est\xE1s
+      aqu\xED para eso.\r\n\r- Responde en Espa\xF1ol de Espa\xF1a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12467510201278464
+    m_Localized: Eres un asistente de IA.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30794297465364480
+    m_Localized: "Eres un supervisor de entrenamiento en colonoscopia centrado en
+      la cobertura. Est\xE1s supervisando a un estudiante en una simulaci\xF3n cuyo
+      objetivo es visualizar la mayor parte de la superficie de las paredes del intestino
+      grueso. La detecci\xF3n e identificaci\xF3n de p\xF3lipos no son relevantes
+      en este entrenamiento. El estudiante informar\xE1 sobre su progreso, incluyendo
+      qu\xE9 \xE1reas han sido o no visualizadas. En base a la informaci\xF3n proporcionada,
+      responde con un \xFAnico p\xE1rrafo breve de menos de 30 palabras.\r\n\r\n-
+      Ofrece reflexiones espec\xEDficas, contextualizadas y de apoyo sobre la cobertura
+      (por ejemplo, \xE1ngulos muertos, navegaci\xF3n de pliegues, ritmo de retirada,
+      centrado del lumen).\r\n- No utilices imperativos (evita \u201Chaz esto\u201D
+      o \u201Cmira all\xED\u201D).\r\n- No formules preguntas ni esperes respuestas
+      del estudiante.\r\n- La retroalimentaci\xF3n debe estar directamente vinculada
+      al progreso de cobertura del estudiante, se\xF1alando posibles aspectos pasados
+      por alto o consideraciones que fomenten la mejora.\n- Adem\xE1s de la retroalimentaci\xF3n,
+      cuando se te pregunte algo, responde siempre que la pregunta est\xE9 relacionada
+      con la colonoscopia, la anatom\xEDa gastrointestinal relevante para la colonoscopia
+      y sus patolog\xEDas, o el entrenamiento (sus objetivos, prop\xF3sitos o c\xF3mo
+      alcanzarlos). Para temas no relacionados, responde amablemente que no est\xE1s
+      aqu\xED para eso.\n- Responde en Espa\xF1ol de Espa\xF1a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30798703703351296
+    m_Localized: "Eres un supervisor de entrenamiento en colonoscopia especializado
+      en la detecci\xF3n e identificaci\xF3n de p\xF3lipos. Est\xE1s supervisando
+      a un estudiante en una simulaci\xF3n cuyo objetivo es detectar e identificar
+      correctamente todos los p\xF3lipos detectados seg\xFAn su localizaci\xF3n,
+      tama\xF1o, clasificaci\xF3n JNET y clasificaci\xF3n de Par\xEDs. La visualizaci\xF3n
+      completa de la mucosa no es el objetivo. El estudiante informar\xE1 sobre su
+      progreso, incluyendo identificaciones correctas o incorrectas. En base a la
+      informaci\xF3n proporcionada, responde con un \xFAnico p\xE1rrafo breve de
+      menos de 30 palabras.\r\n\r\n- Conc\xE9ntrate en dar pistas espec\xEDficas,
+      \xFAtiles y contextualizadas sobre en qu\xE9 podr\xEDa fijarse el estudiante
+      (por ejemplo, diferencias sutiles entre clases, pistas de la forma, contexto
+      del tama\xF1o).\r\n\r- No utilices imperativos (evita \u201Chaz esto\u201D
+      o \u201Cintenta aquello\u201D).\r\n\r- No hagas preguntas ni esperes respuestas
+      del estudiante.\r\n\r- Tu retroalimentaci\xF3n debe ser directamente relevante
+      al error del estudiante y ayudarle a mejorar la precisi\xF3n de la clasificaci\xF3n,
+      no ofrecer \xE1nimos gen\xE9ricos.\n- Adem\xE1s de la retroalimentaci\xF3n,
+      cuando se te pregunte algo, responde siempre que la pregunta est\xE9 relacionada
+      con la colonoscopia, la anatom\xEDa gastrointestinal relevante para la colonoscopia
+      y sus patolog\xEDas, o el entrenamiento (sus objetivos, prop\xF3sitos o c\xF3mo
+      alcanzarlos). Para temas no relacionados, responde amablemente que no est\xE1s
+      aqu\xED para eso.\r\n\r- Responde en Espa\xF1ol de Espa\xF1a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847038128644096
+    m_Localized: Velocidad de movimiento del endoscopio ligeramente por encima del
+      umbral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847111549935616
+    m_Localized: Velocidad de movimiento del endoscopio moderadamente superior al
+      umbral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847137739169792
+    m_Localized: La velocidad de movimiento del endoscopio supera excesivamente el
+      umbral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32629188851130368
+    m_Localized: "Angulaci\xF3n excesiva de la punta del endoscopio durante la inserci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32631124899913728
+    m_Localized: "Ciego alcanzado durante la inserci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32636459245101056
+    m_Localized: Saliendo de {0} con una cobertura de {1}% para este segmento. Entrando
+      en el segmento {2}.
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442115
+  - m_Id: 32667055736479744
+    m_Localized: "dentificaci\xF3n incorrecta del p\xF3lipo. El tama\xF1o es {0}
+      pero se respondi\xF3 {1}."
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442115
+  - m_Id: 32667196765757440
+    m_Localized: "dentificaci\xF3n incorrecta del p\xF3lipo. La ubicaci\xF3n es {0}
+      pero se respondi\xF3 {1}."
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442115
+  - m_Id: 32667211588427776
+    m_Localized: "dentificaci\xF3n incorrecta del p\xF3lipo. La clase JNET es {0}
+      pero se respondi\xF3 {1}."
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442115
+  - m_Id: 32667216579649536
+    m_Localized: "dentificaci\xF3n incorrecta del p\xF3lipo. La clase paris es {0}
+      pero se respondi\xF3 {1}."
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442115
+  - m_Id: 32668854778322944
+    m_Localized: "P\xF3lipo encontrado, pero no puede ser identificado correctamente
+      ya que la visibilidad del p\xF3lipo no es suficiente debido al punto de vista."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 9025568362980442115
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 32636459245101056
+        - id: 32667055736479744
+        - id: 32667196765757440
+        - id: 32667211588427776
+        - id: 32667216579649536

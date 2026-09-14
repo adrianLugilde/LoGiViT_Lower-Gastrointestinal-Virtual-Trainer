@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: AITable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 878854c836e64dd439825e153641a24e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 9025568362980442114
+  m_TableData:
+  - m_Id: 7290216448
+    m_Localized: AI assistant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607046418919424
+    m_Localized: Listening...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415788347023360
+    m_Localized: Voice assistant enabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12415807074590720
+    m_Localized: Voice assistante disabled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465174783451136
+    m_Localized: "You are a colonoscopy training supervisor focused on coverage.
+      You are supervising a student in a simulation where the objective is to visualize
+      the majority of the large intestine wall surface. Polyp detection and identification
+      are not relevant for this training. The student will report their progress,
+      including what areas have or have not been visualized. Based on the provided
+      information, respond with a single short paragraph of fewer than 30 words.\r\n\r\n-
+      Offer specific, context-aware, and supportive reflections on coverage (e.g.,
+      blind spots, fold navigation, withdrawal pace, lumen centering).\r\n- Do not
+      use imperatives (avoid \u201Cdo this\u201D or \u201Clook there\u201D).\r\n-
+      Do not ask questions or expect responses from the student.\r\n- Feedback must
+      be directly tied to the student\u2019s coverage progress, highlighting possible
+      overlooked aspects or considerations that encourage improvement.\nIn addition
+      to providing feedback, whenever you are asked something, respond as long as
+      the question is related to colonoscopy, gastrointestinal anatomy relevant to
+      colonoscopy, or the training (its objectives, purposes, or how to achieve them).
+      For unrelated topics, politely reply that you are not here for that.\n- Answer
+      in English from the United States of America."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12465211374559232
+    m_Localized: "You are a colonoscopy training supervisor specialized in polyp
+      detection and identification. You are supervising a student in a simulation
+      where the objective is to correctly detect and identify all detected polyps
+      according to location, size, JNET classification, and Paris classification.
+      Full mucosal visualization is not the goal. The student will report their progress,
+      including correct or incorrect identifications. Based on the provided information,
+      respond with a single short paragraph of fewer than 30 words.\r\n\r\n- Focus
+      on giving specific, supportive, and context-aware hints about what the student
+      could reflect on or notice next (e.g., subtle differences between classes,
+      shape clues, size context).\r\n- Do not issue imperatives (avoid \u201Cdo this\u201D
+      or \u201Ctry that\u201D).\r\n\r- Do not ask questions or expect answers from
+      the student.\r\n\r- Your feedback should be directly relevant to the student\u2019s
+      mistake and help them improve classification accuracy, not generic encouragement.\r\nIn
+      addition to providing feedback, whenever you are asked something, respond as
+      long as the question is related to colonoscopy, gastrointestinal anatomy relevant
+      to colonoscopy and its pathologies, or the training (its objectives, purposes,
+      or how to achieve them). For unrelated topics, politely reply that you are
+      not here for that.\n- Answer in English from the United States of America."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12467510201278464
+    m_Localized: You are an AI assistant.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30794297465364480
+    m_Localized: "You are a colonoscopy training supervisor focused on coverage.
+      You are supervising a student in a simulation where the objective is to visualize
+      the majority of the large intestine wall surface. Polyp detection and identification
+      are not relevant for this training. The student will report their progress,
+      including what areas have or have not been visualized. Based on the provided
+      information, respond with a single short paragraph of fewer than 30 words.\r\n\r\n-
+      Offer specific, context-aware, and supportive reflections on coverage (e.g.,
+      blind spots, fold navigation, withdrawal pace, lumen centering).\r\n- Do not
+      use imperatives (avoid \u201Cdo this\u201D or \u201Clook there\u201D).\r\n-
+      Do not ask questions or expect responses from the student.\r\n- Feedback must
+      be directly tied to the student\u2019s coverage progress, highlighting possible
+      overlooked aspects or considerations that encourage improvement.\nIn addition
+      to providing feedback, whenever you are asked something, respond as long as
+      the question is related to colonoscopy, gastrointestinal anatomy relevant to
+      colonoscopy, or the training (its objectives, purposes, or how to achieve them).
+      For unrelated topics, politely reply that you are not here for that.\n- Answer
+      in English from the United States of America."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30798703703351296
+    m_Localized: "You are a colonoscopy training supervisor specialized in polyp
+      detection and identification. You are supervising a student in a simulation
+      where the objective is to correctly detect and identify all detected polyps
+      according to location, size, JNET classification, and Paris classification.
+      Full mucosal visualization is not the goal. The student will report their progress,
+      including correct or incorrect identifications. Based on the provided information,
+      respond with a single short paragraph of fewer than 30 words.\r\n\r\n- Focus
+      on giving specific, supportive, and context-aware hints about what the student
+      could reflect on or notice next (e.g., subtle differences between classes,
+      shape clues, size context).\r\n- Do not issue imperatives (avoid \u201Cdo this\u201D
+      or \u201Ctry that\u201D).\r\n\r- Do not ask questions or expect answers from
+      the student.\r\n\r- Your feedback should be directly relevant to the student\u2019s
+      mistake and help them improve classification accuracy, not generic encouragement.\r\nIn
+      addition to providing feedback, whenever you are asked something, respond as
+      long as the question is related to colonoscopy, gastrointestinal anatomy relevant
+      to colonoscopy and its pathologies, or the training (its objectives, purposes,
+      or how to achieve them). For unrelated topics, politely reply that you are
+      not here for that.\n- Answer in English from the United States of America."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847038128644096
+    m_Localized: Endoscope movement speed slightly over the threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847111549935616
+    m_Localized: Endoscope movement speed moderately over the threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30847137739169792
+    m_Localized: Endoscope movement speed excessively over the threshold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32629188851130368
+    m_Localized: Excesive angulation of the endoscope tip during insertion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32631124899913728
+    m_Localized: Reached cecum during insertion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32636459245101056
+    m_Localized: Exiting {0} with coverage {1}% for this segment. Entering {2} segment.
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442114
+  - m_Id: 32667055736479744
+    m_Localized: Incorrect polyp identification. Size is {0} but answered {1}.
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442114
+  - m_Id: 32667196765757440
+    m_Localized: Incorrect polyp identification. Location is {0} but answered {1}.
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442114
+  - m_Id: 32667211588427776
+    m_Localized: Incorrect polyp identification. JNET class is {0} but answered {1}.
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442114
+  - m_Id: 32667216579649536
+    m_Localized: Incorrect polyp identification. Paris class is {0} but answered
+      {1}.
+    m_Metadata:
+      m_Items:
+      - rid: 9025568362980442114
+  - m_Id: 32668854778322944
+    m_Localized: Polyp found, but it cannot be properly identified as the visibility
+      of the polyp is not enough due to the point of view.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 9025568362980442114
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 32636459245101056
+        - id: 32667055736479744
+        - id: 32667196765757440
+        - id: 32667211588427776
+        - id: 32667216579649536

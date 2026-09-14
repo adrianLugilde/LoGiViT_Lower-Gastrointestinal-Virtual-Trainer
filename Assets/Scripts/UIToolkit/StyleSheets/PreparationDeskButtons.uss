@@ -1,0 +1,55 @@
+@import url("project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/LoGiViTStyleVariables.uss?fileID=7433441132597879392&guid=fb1cdcbf63e3cc44abfe0966bfe69e51&type=3#LoGiViTStyleVariables");
+
+.btn {
+    -unity-font-definition: var(--semibold-font);
+    background-color: var(--dark-green);
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    padding: 10px 22px;
+    margin: 0 6px;
+    border-width: 0;
+    border-radius: 2px;
+    min-width: auto;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+    -unity-text-align: middle-center;
+    text-overflow: clip;
+    margin-top: 0%;
+    margin-right: 2%;
+    margin-bottom: 0%;
+    margin-left: 2%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+    transform-origin: center;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    flex-shrink: 1;
+    padding-top: 1%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    -unity-text-auto-size: best-fit 10px 40px;
+    -unity-text-generator: advanced;
+    flex-grow: 1;
+    flex-basis: auto;
+}
+
+.btn:hover {
+    background-color: var(--teal-hover);
+}
+
+.btn:active {
+    background-image: url("project://database/Assets/Textures/Interaction/Teleport/Anchor%20Glow%20Gradient.png?fileID=2800000&guid=7461125ec591a1548883bd61123e9138&type=3#Anchor Glow Gradient");
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-background-image-tint-color: var(--dark-green);
+    background-color: var(--teal-hover);
+}
+
+.btn:disabled {
+    opacity: 0.4;
+}

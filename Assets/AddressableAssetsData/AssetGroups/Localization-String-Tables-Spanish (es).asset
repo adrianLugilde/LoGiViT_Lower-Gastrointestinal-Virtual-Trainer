@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Spanish (es)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Spanish (es)
+  m_GUID: 8ba68df1c9cf56642b2b788008ad98a8
+  m_SerializeEntries:
+  - m_GUID: 025bf4f3db88ca14f88f72f386575c82
+    m_Address: CommonStringsTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10b8a1ebe586e9f48bb68c706dcc47d8
+    m_Address: VR Model Editor Table_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cda68a9bd73d9340ba09f31f3bb320a
+    m_Address: TrainingEditorKeybindsTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25d7411d3d9f39248b5c9ac8d7f02c9e
+    m_Address: ModelEditorDetailsEditionTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 267d7ec76e1475543a157c5ff0b18be6
+    m_Address: AITable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 325a92264796e8743a6fca879821c6cc
+    m_Address: PolypTrainingTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33a1e9e7371887a4a91ea6074e6b5f35
+    m_Address: ModelEditorBaseTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 608a3a6112a6c9b49afcb04dd11a55b7
+    m_Address: SettingsTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6721bcb2a31ca9d47adbe6638c0ceca4
+    m_Address: CommonsTrainingTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d1b8c99439be754a854463fcafe0c4f
+    m_Address: TrainingEditorGuideTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6db11e341a0c8d54faf31b840175f516
+    m_Address: LGIESceneTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 877422fabbeb27c42adb70f8d185cb74
+    m_Address: MessagesTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8abb0147c66935e48b1b0b260e80d098
+    m_Address: IntestineStructureTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a11627788498e6a4480f0372ad2f081b
+    m_Address: VRValveControllerInputTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cadae3455d757ed49bc4411220baa011
+    m_Address: CoverageTrainingTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d079c61aa2014cf47bf7d77187a83410
+    m_Address: KeybindDisplayProfiles_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3f10049b62d60c40b2b4b7208d37d1b
+    m_Address: ColonoscopyRoomSceneTable_es
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c547bc9f3d300b644aa6802c71fce174, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fbadb465b64ce4645af4a7b1abe2a063, type: 2}
+    - {fileID: 11400000, guid: 735a854110c7aa34eb805219e800b2a3, type: 2}

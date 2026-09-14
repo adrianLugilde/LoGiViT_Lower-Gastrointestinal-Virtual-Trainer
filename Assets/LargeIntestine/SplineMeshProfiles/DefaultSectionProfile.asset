@@ -1,0 +1,487 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47409d6d2cc82a74d96ce82ea66d19ba, type: 3}
+  m_Name: DefaultSectionProfile
+  m_EditorClassIdentifier: 
+  id: 9bd31487-5dc7-475f-82d9-16c8096f9a58
+  mesh: {fileID: 5018913988565346703, guid: 26ac85009bff789409af87074f0cb322, type: 3}
+  defaultMaterials:
+  - {fileID: 2100000, guid: dc37d29a17181664b9317695656097aa, type: 2}
+  meshType: 0
+  blendshapes:
+  - name: Radio_50_
+    index: 0
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Tenias
+    index: 1
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Tenias_Sup
+    index: 2
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 2
+      linkedBlendshapeName: Tenias_Inf
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Tenias_Med
+    index: 3
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Tenias_Inf
+    index: 4
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 1
+      linkedBlendshapeName: Tenias_Sup
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: "compresi\xF3n"
+    index: 5
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Deltas
+    index: 6
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Ancho_Sup_X
+    index: 7
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 2
+      linkedBlendshapeName: Ancho_inf_X
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Ancho_Sup_Y
+    index: 8
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 2
+      linkedBlendshapeName: Ancho_inf_Y
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Ancho_Med_X
+    index: 9
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Ancho_Med_Y
+    index: 10
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Ancho_inf_X
+    index: 11
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 1
+      linkedBlendshapeName: Ancho_Sup_X
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Ancho_inf_Y
+    index: 12
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 1
+      linkedBlendshapeName: Ancho_Sup_Y
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: "Saculaci\xF3n"
+    index: 13
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Saculacion_sup
+    index: 14
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 2
+      linkedBlendshapeName: "Saculaci\xF3n_Inf"
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: "Saculaci\xF3n_Inf"
+    index: 15
+    isEnabled: 1
+    defaultValue: 0
+    links:
+    - direction: 1
+      linkedBlendshapeName: Saculacion_sup
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Semilunar_Alfa
+    index: 16
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Semilunar_Beta
+    index: 17
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Semilunar_Gamma
+    index: 18
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Rectum
+    index: 19
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: CECUM
+    index: 20
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Apendice
+    index: 21
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: CierreApendice
+    index: 22
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Rugosidad
+    index: 23
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Cierre_A
+    index: 24
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Cierre_B
+    index: 25
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Cierre_C
+    index: 26
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Cierre_D
+    index: 27
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Grosor_pared
+    index: 28
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Arruga_Compresion
+    index: 29
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Rugosidad_Med
+    index: 30
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: Rugosidad_Sup
+    index: 31
+    isEnabled: 0
+    defaultValue: 0
+    links:
+    - direction: 2
+      linkedBlendshapeName: Rugosidad_Inf
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Rugosidad_SupF
+    index: 32
+    isEnabled: 0
+    defaultValue: 0
+    links:
+    - direction: 2
+      linkedBlendshapeName: Rugosidad_InfF
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Rugosidad_Inf
+    index: 33
+    isEnabled: 0
+    defaultValue: 0
+    links:
+    - direction: 1
+      linkedBlendshapeName: Rugosidad_Sup
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: Rugosidad_InfF
+    index: 34
+    isEnabled: 0
+    defaultValue: 0
+    links:
+    - direction: 1
+      linkedBlendshapeName: Rugosidad_SupF
+      chainLinks: 0
+      linkScale: 1
+      linkOffset: 0
+      offsetModulatorBlendshape: 
+      modulatorValueA: 0
+      offsetAtModulatorA: 0
+      modulatorValueB: 0
+      offsetAtModulatorB: 0
+      noExtrapolation: 0
+    clampRules: []
+  - name: correccion_CECUM_____
+    index: 35
+    isEnabled: 0
+    defaultValue: 0
+    links: []
+    clampRules: []
+  - name: correccion_MEDIO______
+    index: 36
+    isEnabled: 1
+    defaultValue: 0
+    links: []
+    clampRules: []
+  blendshapePanels:
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 416402757159849984
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - "Saculaci\xF3n_Inf"
+    - Saculacion_sup
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 214831550464
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - Tenias_Inf
+    - Tenias_Med
+    - Tenias_Sup
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 418573395702157312
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - "compresi\xF3n"
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 418562333456044032
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - Grosor_pared
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 425787669441490944
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - Cierre_A
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 418573301837828096
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - Deltas
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 252471234560
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - Radio_50_
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 373850198016
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - Ancho_inf_X
+    - Ancho_Med_X
+    - Ancho_Sup_X
+  - panelTitle:
+      m_TableReference:
+        m_TableCollectionName: GUID:11803c7352b2f66479080d268931943b
+      m_TableEntryReference:
+        m_KeyId: 302354092032
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    blendshapeNames:
+    - Ancho_inf_Y
+    - Ancho_Med_Y
+    - Ancho_Sup_Y
+  uvChannelIndex: 0
+  description: 
+  isValid: 0
+  references:
+    version: 2
+    RefIds: []

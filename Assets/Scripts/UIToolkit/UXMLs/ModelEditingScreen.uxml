@@ -1,0 +1,39 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="HeaderFragment" src="project://database/Assets/Scripts/UIToolkit/UXMLs/HeaderFragment.uxml?fileID=9197481963319205126&amp;guid=948c7a1178ffcab4585d368b58ffc3a2&amp;type=3#HeaderFragment"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit/StyleSheets/PreparationDeskUIStyles.uss?fileID=7433441132597879392&amp;guid=793d46e89bb59f64082d89ce4018a533&amp;type=3#PreparationDeskUIStyles"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit/StyleSheets/LoGiViTStyleVariables.uss?fileID=7433441132597879392&amp;guid=fb1cdcbf63e3cc44abfe0966bfe69e51&amp;type=3#LoGiViTStyleVariables"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit/StyleSheets/HeaderFragmentStyles.uss?fileID=7433441132597879392&amp;guid=857911dc3e142f54bb6986c6db0e69fc&amp;type=3#HeaderFragmentStyles"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit/StyleSheets/PreparationDeskButtons.uss?fileID=7433441132597879392&amp;guid=e87e15e4b6b1e134e90ce54f691b3576&amp;type=3#PreparationDeskButtons"/>
+    <Style src="project://database/Assets/Scripts/UIToolkit/StyleSheets/ListScreenStyles.uss?fileID=7433441132597879392&amp;guid=28cd77c0d3215aa4487e4bacf2127b02&amp;type=3#ListScreenStyles"/>
+    <ui:VisualElement name="root" class="root" style="width: 100%; height: 100%; padding-left: 2.5%; padding-right: 2.5%; padding-bottom: 2.5%; padding-top: 0%;">
+        <ui:Instance template="HeaderFragment" style="flex-shrink: 0; -unity-text-auto-size: none;"/>
+        <ui:VisualElement name="body" class="body" style="padding-left: 2%; padding-right: 2%; padding-bottom: 2%; padding-top: 2%;">
+            <ui:ListView name="model-list" item-template="project://database/Assets/Scripts/UIToolkit/UXMLs/ListItem.uxml?fileID=9197481963319205126&amp;guid=3235f006fe4fa104491aef7665c67697&amp;type=3#ListItem" show-border="false" horizontal-scrolling="false" enabled="true" binding-source-selection-mode="Manual" fixed-item-height="50" show-foldout-header="false" show-bound-collection-size="true" data-source-type="Google.Apis.Auth.OAuth2.DefaultCredentialProvider+&lt;&lt;CreateDefaultCredentialAsync&gt;g__GetAdcFromEnvironmentVariableAsync|11_0&gt;d, Google.Apis.Auth" class="body-list"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="footer" class="footer">
+            <ui:VisualElement class="footer-btns">
+                <ui:Button text="Crear" name="btn_create" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:7d87024cace34a64c914b53df2ccb4a3" entry="Id(31475159617536)"/>
+                    </Bindings>
+                </ui:Button>
+                <ui:Button text="Editar" name="btn-edit" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:7d87024cace34a64c914b53df2ccb4a3" entry="Id(242438459392)"/>
+                    </Bindings>
+                </ui:Button>
+                <ui:Button text="Eliminar muchas cosas" name="btn-delete" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:7d87024cace34a64c914b53df2ccb4a3" entry="Id(273845407744)"/>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:7d87024cace34a64c914b53df2ccb4a3" entry="Id(273845407744)"/>
+                    </Bindings>
+                </ui:Button>
+                <ui:Button text="Configuración" name="btn-return" enable-rich-text="true" class="btn">
+                    <Bindings>
+                        <UnityEngine.Localization.LocalizedString property="text" table="GUID:7d87024cace34a64c914b53df2ccb4a3" entry="Id(848519211474944)"/>
+                    </Bindings>
+                </ui:Button>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

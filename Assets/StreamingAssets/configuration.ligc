@@ -1,0 +1,91 @@
+{
+  "intestineSegments": [
+    {
+      "liSegment": 0,
+      "liSections": [
+        {
+          "meshProfilePath": "LI_SectionMeshProfiles/cecum_Profile",
+          "materialOverrideNames": null,
+          "blendshapeValues": {
+            "union_border_inf": 0.0,
+            "union_border_sup": 0.0,
+            "union_wide_inf": 0.0,
+            "union_wide_sup": 0.0,
+            "tenia_inf": 0.0,
+            "tenia_sup": 0.0,
+            "forma": 0.0,
+            "union_soft": 0.0,
+            "ancho": 0.0,
+            "estrecho": 0.0,
+            "ancho_X_med": 0.0,
+            "ancho_Y_med": 0.0,
+            "ancho_X_inf": 0.0,
+            "ancho_Y_inf": 0.0,
+            "ancho_X_sup": 0.0,
+            "ancho_Y_sup": 0.0,
+            "C_cecum": 0.0,
+            "C_arrugas": 0.0,
+            "C_apendice": 0.0,
+            "C_forma": 0.0
+          }
+        },
+        {
+          "meshProfilePath": "LI_SectionMeshProfiles/defaultSection_Profile",
+          "materialOverrideNames": null,
+          "blendshapeValues": {
+            "union_border_inf": 0.0,
+            "union_border_sup": 0.0,
+            "union_wide_inf": 0.0,
+            "union_wide_sup": 0.0,
+            "tenia_inf": 0.0,
+            "tenia_sup": 0.0,
+            "forma": 0.0,
+            "union_soft": 0.0,
+            "ancho": 0.0,
+            "estrecho": 0.0,
+            "ancho_X_med": 0.0,
+            "ancho_Y_med": 0.0,
+            "ancho_X_inf": 0.0,
+            "ancho_Y_inf": 0.0,
+            "ancho_X_sup": 0.0,
+            "ancho_Y_sup": 0.0
+          }
+        },
+        {
+          "meshProfilePath": "LI_SectionMeshProfiles/rectum_Profile",
+          "materialOverrideNames": null,
+          "blendshapeValues": {
+            "union_border_inf": 0.0,
+            "union_border_sup": 0.0,
+            "union_wide_inf": 0.0,
+            "union_wide_sup": 0.0,
+            "tenia_inf": 0.0,
+            "tenia_sup": 0.0,
+            "forma": 0.0,
+            "union_soft": 0.0,
+            "ancho": 0.0,
+            "estrecho": 0.0,
+            "ancho_X_med": 0.0,
+            "ancho_Y_med": 0.0,
+            "ancho_X_inf": 0.0,
+            "ancho_Y_inf": 0.0,
+            "ancho_X_sup": 0.0,
+            "ancho_Y_sup": 0.0,
+            "R_recto": 0.0,
+            "R_canal": 0.0,
+            "R_houston_up_low_valve_inf": 0.0,
+            "R_houston_up_low_shape_inf": 0.0,
+            "R_houston_up_low_valve_sup": 0.0,
+            "R_houston_up_low_shape_sup": 0.0,
+            "R_houston_mid_valve_inf": 0.0,
+            "R_houston_mid_shape_inf": 0.0,
+            "R_houston_mid_valve_sup": 0.0,
+            "R_houston_mid_shape_sup": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "fileName": "",
+  "fileID": 108217697723506
+}

@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MessagesTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MessagesTable
+  m_TableCollectionNameGuidString: 1399342660410934ab461cc2d5677e44
+  m_Entries:
+  - m_Id: 12255055872
+    m_Key: inDevelopment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90587877376
+    m_Key: unexpected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 205696356352
+    m_Key: searchWithoutResults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342430666752
+    m_Key: relativePathsCreation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769968656384
+    m_Key: fileNotFound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 840575569920
+    m_Key: invalidExtension
+    m_Metadata:
+      m_Items: []
+  - m_Id: 979188928512
+    m_Key: fileParsing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2718260613120
+    m_Key: missingName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2792852115456
+    m_Key: fileAlreadyExists
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2894492684288
+    m_Key: changesNotSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2946707574784
+    m_Key: confirmDelete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3006929391616
+    m_Key: fileDeleted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4103114936320
+    m_Key: fileImported
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4183591047168
+    m_Key: fileExported
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4250389532672
+    m_Key: fileSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4319419387904
+    m_Key: inputNameAndDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4401468362752
+    m_Key: confirmDiseaseEditionEnabling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4559618789376
+    m_Key: confirmDiseaseEditionDisabling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10888130441216
+    m_Key: invalidPresetSaveSelection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1051200808542208
+    m_Key: confirmPresetPreviewApplyOnExit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117936399323750400
+    m_Key: vrDisplayModeNotAvailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132038946317656064
+    m_Key: invalidTimeLimit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132227923054157824
+    m_Key: confirmTrainingRestart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 196007629129506816
+    m_Key: confirmDiseasePlacementLocation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226874707334819840
+    m_Key: noPolypsDetected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226875073803743232
+    m_Key: invalidPolypDetection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226913002177589248
+    m_Key: trainingStarted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355873647635828736
+    m_Key: trainingPaused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361366243413954560
+    m_Key: confirmExitRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361656489682767872
+    m_Key: presetChangesNotSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 361656622419906560
+    m_Key: modelChangesNotSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363602354609688576
+    m_Key: confirmSaveTrainingResults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363808273012461568
+    m_Key: trainingResultsSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363808446929276928
+    m_Key: trainingResultsNotSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 438806581089394688
+    m_Key: settingsChangesNotSaved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 439289040676917248
+    m_Key: confirmExitEditor
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2198801365987754061
+  references:
+    version: 2
+    RefIds:
+    - rid: 2198801365987754061
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1673264964142

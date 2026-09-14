@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PolypTrainingTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 65f1c8bcbd779cf40853c53cf7b6b4b9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7038558208
+    m_Localized: Display total number of polyps in the model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 339256795136
+    m_Localized: Allow view of discovered polyps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15273604669440
+    m_Localized: Display data regarding polyp detection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8423866666311680
+    m_Localized: Detected polyps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55533863086579712
+    m_Localized: Identified polyps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58371302050226176
+    m_Localized: Size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58371369926647808
+    m_Localized: Location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58371463266689024
+    m_Localized: Paris class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58371517650034688
+    m_Localized: JNET class
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58460983169376256
+    m_Localized: Save answer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60875280608649216
+    m_Localized: Check answers during training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61002486718652416
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61007105066786816
+    m_Localized: Polyp identification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80140263636852736
+    m_Localized: Polyp not detected and/or identified - 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220106896244314112
+    m_Localized: Not answered
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220108061661040640
+    m_Localized: Polyp not detected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 220108284445691904
+    m_Localized: Polyp not identified
+    m_Metadata:
+      m_Items: []
+  - m_Id: 300177247433646080
+    m_Localized: Complete the polyp identification to continue
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

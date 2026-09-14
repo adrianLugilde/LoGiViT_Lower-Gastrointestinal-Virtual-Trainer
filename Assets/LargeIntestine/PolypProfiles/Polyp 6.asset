@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be84dbdc55507764f8f4c9a940f48edc, type: 3}
+  m_Name: Polyp 6
+  m_EditorClassIdentifier: Assembly-CSharp::PolypProfile
+  id: 02c34205-f4e4-4fe9-aad2-1467c3a99d21
+  displayName: Polyp 6
+  description: Depressed - Carcinoma
+  mesh: {fileID: 6868482185343442364, guid: 32dfe9df4677f2e4e8364bf1b50f6806, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 1dad95b8853271d4bb2adf1671c61f04, type: 2}
+  meshSprite: {fileID: 21300000, guid: 5dba779adb9e2e54dac5cd4bab4be307, type: 3}
+  image: {fileID: 2800000, guid: ff27af5924259e447af28d45a57eedcb, type: 3}
+  jnetClass: 2
+  parisClass: 6

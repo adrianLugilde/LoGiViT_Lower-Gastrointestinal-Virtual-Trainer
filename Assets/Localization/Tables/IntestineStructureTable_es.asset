@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: IntestineStructureTable_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 541b3c51c24c2df408c049e7f8ff135c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11945893888
+    m_Localized: Recto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56233549824
+    m_Localized: Sigmoide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 145307983872
+    m_Localized: Segmento descendiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232041996288
+    m_Localized: Segmento transverso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318364966912
+    m_Localized: Segmento ascendente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363227242496
+    m_Localized: Ciego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59323187716096
+    m_Localized: "V\xE1lvula ileocecal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59392079159296
+    m_Localized: "Flexura hep\xE1tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59467861843968
+    m_Localized: "Flexura espl\xE9nica"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

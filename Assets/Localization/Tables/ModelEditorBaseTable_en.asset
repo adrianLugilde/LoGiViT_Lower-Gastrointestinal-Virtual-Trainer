@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ModelEditorBaseTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3f71b064bf66fb14f90791bbc75841a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20408782848
+    m_Localized: Tract
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210565943296
+    m_Localized: Presets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 336793522176
+    m_Localized: Anatomical details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511956045824
+    m_Localized: Diseases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 605023457280
+    m_Localized: Preview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 690750836736
+    m_Localized: Model data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801023283200
+    m_Localized: Save model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 874977251328
+    m_Localized: Save model as
+    m_Metadata:
+      m_Items: []
+  - m_Id: 946515300352
+    m_Localized: Exit edition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1090128269312
+    m_Localized: Move selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1215642816512
+    m_Localized: Rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1289521287168
+    m_Localized: Joined nodes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1375949115392
+    m_Localized: Focus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1477765844992
+    m_Localized: Undo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1523215323136
+    m_Localized: Redo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2580356091904
+    m_Localized: Place disease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2640271724544
+    m_Localized: Center camera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8477019033600
+    m_Localized: Available presets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11494489411584
+    m_Localized: Presets edition
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11558897143808
+    m_Localized: "Instructions:\n          1. Freely edit the centerline nodes, it
+      will not affect the original shape of the model.\n          2. Select two nodes
+      as the start and end of the preset.\n          3. Set a name and an optional
+      description.\n          4. Save the preset."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12356603432960
+    m_Localized: Preset name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12356959948800
+    m_Localized: Preset description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18147725103104
+    m_Localized: Model name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18215572164608
+    m_Localized: Model description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355751248257024
+    m_Localized: Outside view
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355827437789184
+    m_Localized: Inside view
+    m_Metadata:
+      m_Items: []
+  - m_Id: 434238146125824
+    m_Localized: Preview
+    m_Metadata:
+      m_Items: []
+  - m_Id: 702800022429696
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739873643257856
+    m_Localized: Displacement limit reached
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067212585033728
+    m_Localized: Manage presets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081737761775616
+    m_Localized: Enlarge disease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081770947108864
+    m_Localized: Shrink disease
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23177697567703040
+    m_Localized: Left lateral position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23178108848570368
+    m_Localized: Supine position
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23178110559846400
+    m_Localized: Prone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23178106998882304
+    m_Localized: Right lateral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26799320671080448
+    m_Localized: EDITION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38428977780436992
+    m_Localized: Select the disease to display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127212056021032960
+    m_Localized: Multiple selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269007269709471744
+    m_Localized: Random model
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315028630443249664
+    m_Localized: Preset name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315028681127219200
+    m_Localized: Preset description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317448682674950144
+    m_Localized: Inferior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317448767852875776
+    m_Localized: Superior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317448739172225024
+    m_Localized: Middle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 317477798249861120
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 319266115563917312
+    m_Localized: Data required
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357434504626933760
+    m_Localized: Model editor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357436139864428544
+    m_Localized: This editor lets you create and adjust large intestine models with
+      flexible tools. Control nodes allow smooth changes in shape, while presets
+      speed up exploration of different forms. Each section can be refined for anatomical
+      accuracy, and diseases can be placed to represent clinical cases.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357999770121375744
+    m_Localized: 'Paris class:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357999974136516608
+    m_Localized: 'JNET Class:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365689091943141376
+    m_Localized: Clear selection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429913649407168512
+    m_Localized: Restore rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431273237577457664
+    m_Localized: Surface noise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431273565442007040
+    m_Localized: Torsion noise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431335759085035520
+    m_Localized: Suface noise detph
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431336449689772032
+    m_Localized: Surface noise density
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431336610876874752
+    m_Localized: Maximum torsion angle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431342213879816192
+    m_Localized: New noise seed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432334340361281536
+    m_Localized: Model noise settings
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

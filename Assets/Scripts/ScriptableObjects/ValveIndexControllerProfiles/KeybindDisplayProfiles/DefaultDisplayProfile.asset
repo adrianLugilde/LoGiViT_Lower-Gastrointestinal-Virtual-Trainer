@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602d2a0769de6d7499120a24240f201f, type: 3}
+  m_Name: DefaultDisplayProfile
+  m_EditorClassIdentifier: 
+  leftControllerProfile: {fileID: 11400000, guid: 1e620530175ac9d40a55b71e4c581c2c, type: 2}
+  rightControllerProfile: {fileID: 11400000, guid: 371985b7db2531847b923633b5008db5, type: 2}

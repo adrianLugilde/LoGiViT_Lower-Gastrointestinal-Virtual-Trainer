@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602d2a0769de6d7499120a24240f201f, type: 3}
+  m_Name: CoverageTrainingNoOrganView
+  m_EditorClassIdentifier: 
+  leftControllerProfile: {fileID: 11400000, guid: a23428e4a1715b8408261554ab579233, type: 2}
+  rightControllerProfile: {fileID: 11400000, guid: c5135ad96b3a45d4aa33b72a56972ec1, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be84dbdc55507764f8f4c9a940f48edc, type: 3}
+  m_Name: Polyp 13
+  m_EditorClassIdentifier: Assembly-CSharp::PolypProfile
+  id: 8c232d7e-54da-45c1-bd4b-8b8f6ee829ff
+  displayName: Polyp 13
+  description: Flat- Hyperplastic
+  mesh: {fileID: -2602949090905550423, guid: 1a68966827a97c243b3461af3e44f131, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 5f9b536aa3cccdf499b489d1edab3259, type: 2}
+  meshSprite: {fileID: 21300000, guid: 5dba779adb9e2e54dac5cd4bab4be307, type: 3}
+  image: {fileID: 2800000, guid: aeb7e3d926a42e04ea54580306462d31, type: 3}
+  jnetClass: 0
+  parisClass: 5

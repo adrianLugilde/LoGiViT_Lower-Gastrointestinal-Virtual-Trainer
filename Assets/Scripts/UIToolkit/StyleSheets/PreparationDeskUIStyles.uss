@@ -1,0 +1,8 @@
+@import url("project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/LoGiViTStyleVariables.uss?fileID=7433441132597879392&guid=fb1cdcbf63e3cc44abfe0966bfe69e51&type=3#LoGiViTStyleVariables");
+
+.root {
+    background-color: var(--background-grey);
+    flex-shrink: 0;
+}
+
+

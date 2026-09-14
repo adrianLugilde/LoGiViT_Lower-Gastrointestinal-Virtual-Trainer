@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/HeaderFragmentStyles.uss?fileID=7433441132597879392&amp;guid=857911dc3e142f54bb6986c6db0e69fc&amp;type=3#HeaderFragmentStyles"/>
+    <ui:VisualElement class="header-container">
+        <ui:Label text="LoGiViT" name="HeaderTitle" class="header-title"/>
+        <ui:VisualElement class="page-divider"/>
+    </ui:VisualElement>
+</ui:UXML>

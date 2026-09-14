@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 66fd94040eaba6643b56dd19f468d2d6
+  m_SerializeEntries:
+  - m_GUID: 08b743786c04a4b4e82de9f6e81fb1c0
+    m_Address: Assets/Localization/Tables/VRValveControllerInputTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11803c7352b2f66479080d268931943b
+    m_Address: Assets/Localization/Tables/TrainingEditorDetailsEditionTable Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1399342660410934ab461cc2d5677e44
+    m_Address: Assets/Localization/Tables/BasicMessagesTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2481ce4dd86754a43be620190c7a2441
+    m_Address: Assets/Localization/Tables/TrainingEditorKeybindsTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f71b064bf66fb14f90791bbc75841a9
+    m_Address: Assets/Localization/Tables/TrainingEditorTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 541b3c51c24c2df408c049e7f8ff135c
+    m_Address: Assets/Localization/Tables/IntestineStructureTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5887fe10d86044042b3b673714325efc
+    m_Address: Assets/Localization/Tables/KeybindDisplayProfiles Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63b57812e6c8cfa42bee33ccc79a08ea
+    m_Address: Assets/Localization/Tables/CoverageTrainingTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65f1c8bcbd779cf40853c53cf7b6b4b9
+    m_Address: Assets/Localization/Tables/PolypTrainingTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d87024cace34a64c914b53df2ccb4a3
+    m_Address: Assets/Localization/Tables/CommonStringsTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 878854c836e64dd439825e153641a24e
+    m_Address: Assets/Localization/Tables/AITable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0de9150ec926b54e82e887db09211ea
+    m_Address: Assets/Localization/Tables/VR Model Editor Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6d0910358f3ffb4082b7add09570a58
+    m_Address: Assets/Localization/Tables/AssetsTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: beb93d23ebce5bc45996cd6e378b05d5
+    m_Address: Assets/Localization/Tables/LGIESceneTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7b1241be07e16f40bd910ab8598158e
+    m_Address: Assets/Localization/Tables/MainMenuSceneTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce1ff21cb866c0b4f80e7f65dfb306cc
+    m_Address: Assets/Localization/Tables/SettingsTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3b183b3130a7334fbcfdb515934aa75
+    m_Address: Assets/Localization/Tables/CommonsTrainingTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebe264e2c69aa294f919bdc7f54bdb64
+    m_Address: Assets/Localization/Tables/TrainingEditorGuideTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: c547bc9f3d300b644aa6802c71fce174, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f3222542c3192f642b1420b0213f36f4, type: 2}
+    - {fileID: 11400000, guid: 5d71d003675df0046bc83e39e33f781a, type: 2}

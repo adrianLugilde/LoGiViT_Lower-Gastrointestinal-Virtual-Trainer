@@ -1,0 +1,19 @@
+{
+  "type": 0,
+  "name": "Polyp 6",
+  "description": "Polyp 6",
+  "meshName": "Polyp_6",
+  "materialsNames": [
+    "LI_HDRP_Material-Poli06"
+  ],
+  "meshSpriteName": "Polyp_6",
+  "imageName": "Polyp_6",
+  "jnetClass": 3,
+  "parisClass": 6,
+  "size": {
+    "x": 0.0,
+    "y": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  }
+}

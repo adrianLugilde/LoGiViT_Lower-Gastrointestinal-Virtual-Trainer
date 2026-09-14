@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CoverageTrainingTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 63b57812e6c8cfa42bee33ccc79a08ea, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33752080384
+    m_Localized: Training configuration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4197987115008
+    m_Localized: Time limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15899717787648
+    m_Localized: Allow view of explored organ during training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16736703733760
+    m_Localized: Display exploration data during training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19677409959936
+    m_Localized: Start training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389481908133888
+    m_Localized: Elapsed time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389580818210816
+    m_Localized: Remaining time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389697461805056
+    m_Localized: '% Organ explored'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390707689283584
+    m_Localized: Training data
+    m_Metadata:
+      m_Items: []
+  - m_Id: 838825086017536
+    m_Localized: End training
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501842066956288
+    m_Localized: '% Rectum explored'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501881581494272
+    m_Localized: '% Sigmoid explored'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501918793359360
+    m_Localized: '% Descending colon explored'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501969909342208
+    m_Localized: '% Transverse colon explored'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55502001073020928
+    m_Localized: '% Ascending colon explored'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55502041610969088
+    m_Localized: '% Cecum explored'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891362591707136
+    m_Localized: Training in progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891629844369408
+    m_Localized: Training paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891694646366208
+    m_Localized: Training finished - Results
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223995391048257536
+    m_Localized: Training paused for identification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226296409333272576
+    m_Localized: Enable AI assistance
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

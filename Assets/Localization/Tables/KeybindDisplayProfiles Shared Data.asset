@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: KeybindDisplayProfiles Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: KeybindDisplayProfiles
+  m_TableCollectionNameGuidString: 5887fe10d86044042b3b673714325efc
+  m_Entries:
+  - m_Id: 10888515584
+    m_Key: uiPress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 172629266432
+    m_Key: grab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206858981376
+    m_Key: characterMovement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1189676683264
+    m_Key: endoscopeMovement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1290755215360
+    m_Key: endoscopeAngulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1351006392320
+    m_Key: blink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413925146624
+    m_Key: turnLeft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1503393845248
+    m_Key: turnRight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314949838671872
+    m_Key: controlEndoscope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315045355556864
+    m_Key: controlCharacter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371564717641728
+    m_Key: grabEndoscope
+    m_Metadata:
+      m_Items: []
+  - m_Id: 371891869159424
+    m_Key: pauseTraining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372085461454848
+    m_Key: resumeTraining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429842835279872
+    m_Key: detectPolyp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 429997550571520
+    m_Key: aiAssisant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 431368546914304
+    m_Key: activateDeactivateVoiceAssistant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 433109237600256
+    m_Key: showExploredOrganView
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6410364229095424
+    m_Key: defaultLeftJoystick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6484216913170432
+    m_Key: lockAngulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6498023744049152
+    m_Key: trackpadAIAssistant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82170644840570880
+    m_Key: toggleNBI
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6676869471142674515
+  references:
+    version: 2
+    RefIds:
+    - rid: 6676869471142674515
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1758311724266

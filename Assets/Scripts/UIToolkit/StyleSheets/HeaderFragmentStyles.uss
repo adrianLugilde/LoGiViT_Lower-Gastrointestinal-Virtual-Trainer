@@ -1,0 +1,23 @@
+@import url("project://database/Assets/Scripts/UIToolkit_mine/StyleSheets/LoGiViTStyleVariables.uss?fileID=7433441132597879392&guid=fb1cdcbf63e3cc44abfe0966bfe69e51&type=3#LoGiViTStyleVariables");
+
+.header-container {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-direction: column;
+}
+
+.header-title {
+    -unity-font-definition: var(--bold-font);
+    font-size: 120px;
+    color: var(--dark-green);
+    flex-shrink: 1;
+    -unity-text-auto-size: best-fit 10px 120px;
+    -unity-text-generator: advanced;
+}
+
+.page-divider {
+    flex-grow: 0;
+    flex-shrink: 0;
+    height: 5px;
+    background-color: var(--dark-green);
+}

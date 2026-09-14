@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SettingsTable_es
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: ce1ff21cb866c0b4f80e7f65dfb306cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 5669642240
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68131217408
+    m_Localized: "Ingl\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109268951040
+    m_Localized: Usar agarre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228223606784
+    m_Localized: "Usar bot\xF3n A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6036948770816
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071002324992
+    m_Localized: Controles de agarre
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

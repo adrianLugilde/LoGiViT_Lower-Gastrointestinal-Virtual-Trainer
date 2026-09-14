@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CoverageTrainingTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CoverageTrainingTable
+  m_TableCollectionNameGuidString: 63b57812e6c8cfa42bee33ccc79a08ea
+  m_Entries:
+  - m_Id: 33752080384
+    m_Key: trainingConfiguration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4197987115008
+    m_Key: timeLimit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15899717787648
+    m_Key: allowCoverageViewInTraining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16736703733760
+    m_Key: displayCoverageDataInTraining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19677409959936
+    m_Key: startTraining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389481908133888
+    m_Key: elapsedTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389580818210816
+    m_Key: remainingTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 389697461805056
+    m_Key: percentageOrganExplored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390707689283584
+    m_Key: trainingStatus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 838825086017536
+    m_Key: endTraining
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501842066956288
+    m_Key: percentageRectumExplored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501881581494272
+    m_Key: percentageSigmoidExplored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501918793359360
+    m_Key: percentageDescendingColonExplored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55501969909342208
+    m_Key: percentageTransverseColonExplored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55502001073020928
+    m_Key: percentageAscendingColonExplored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55502041610969088
+    m_Key: percentageCecumExplored
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891362591707136
+    m_Key: trainingInProgress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891629844369408
+    m_Key: trainingPaused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221891694646366208
+    m_Key: trainingFinishedResults
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223995391048257536
+    m_Key: trainingPausedForIdentification
+    m_Metadata:
+      m_Items: []
+  - m_Id: 226296409333272576
+    m_Key: enableAIAssitance
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2206825579210342402
+  references:
+    version: 2
+    RefIds:
+    - rid: 2206825579210342402
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1704702954663

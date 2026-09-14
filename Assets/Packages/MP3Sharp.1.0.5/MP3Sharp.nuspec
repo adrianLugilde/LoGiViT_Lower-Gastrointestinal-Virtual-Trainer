@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MP3Sharp</id>
+    <version>1.0.5</version>
+    <title>MP3Sharp</title>
+    <authors>Robert Burke,Zane Dubya</authors>
+    <owners>Robert Burke,Zane Dubya</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://www.gnu.org/licenses/lgpl-3.0.en.html</licenseUrl>
+    <projectUrl>https://github.com/Nihlus/MP3Sharp</projectUrl>
+    <iconUrl>https://upload.wikimedia.org/wikipedia/commons/f/f5/Audio-mp3.svg</iconUrl>
+    <description>Decode MP3 files to PCM bitstreams entirely in .NET managed code.</description>
+    <releaseNotes>Rebuild package in release mode.</releaseNotes>
+    <tags>mp3 open-source library lgpl decoder pcm netstandard2.0 cross-platform</tags>
+    <repository url="https://github.com/Nihlus/MP3Sharp" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>
